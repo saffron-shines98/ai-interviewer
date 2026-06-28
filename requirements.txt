@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+alembic
+pydantic
+pydantic-settings
+celery
+redis==4.6.0
+python-multipart
+python-dotenv
+anthropic
+openai
+pdfplumber
+python-docx
+pytest
